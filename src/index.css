@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding-bottom: 100px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Times New Roman', Times, serif;
+}
